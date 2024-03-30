@@ -1,7 +1,7 @@
 <?php
 $dbname = "cion_db";
 $dbhost = "localhost:3306";
-$dbpass = "0808@#Tejas";
+$dbpass = "";
 $dbuser = "root";
 
 try {
